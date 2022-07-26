@@ -5,7 +5,7 @@ import "tw-elements"
 import App from "./App"
 
 import "./index.css"
-
+import "./styles/header.scss"
 //import "./components/Pages/home/home.scss"
 
 ReactDOM.render(
